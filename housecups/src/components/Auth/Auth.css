@@ -1,0 +1,24 @@
+.Auth__Body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Auth__Body__Container {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+.Auth__Body__Imageholder{
+  display: flex;
+  width: 25%;
+}
+label {
+  font-weight: 5;
+  margin-top: 15px;
+}
+input {
+  width: 100%;
+  color: #333;
+  padding: 6px 10px;
+  font-size: 0.8em;
+}

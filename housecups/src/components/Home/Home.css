@@ -1,0 +1,40 @@
+.Home__Navbar {
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  padding: 0px 50px;
+  align-items: center;
+  font-family: Roboto, Arial, sans-serif;
+}
+.Home__Container_carousel {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.Home__Container_description {
+  display: flex;
+  height: 80px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.Home__Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-primary {
+  border: 1px solid #11111166;
+  align-items: center;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 18px;
+}
+
+.coverflow__coverflow__262-9 {
+  background: #333;
+}
+.coverflow__actions__MMUtW .coverflow__button__2hjX4 {
+  padding: 0px;
+  font-size: medium;
+}
